@@ -1,5 +1,4 @@
 name: Docker CI/CD
-
 on:
   push:
     branches: [main]   # Triggers when pushing to the main branch
